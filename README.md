@@ -35,6 +35,7 @@ Deployment
 
 Hosted on GitHub Pages / Netlify
 
+Live Demo: http://127.0.0.1:5500/about.html
 
 Reflection
 What I learned:
