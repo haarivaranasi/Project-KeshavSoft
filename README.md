@@ -5,19 +5,6 @@ This is a responsive website built using HTML5, CSS3, and Bootstrap 5.
 It demonstrates the use of Bootstrap components like navbar, hero sections, cards, forms, and responsive grids.
 The project was created as part of an internship task to showcase skills in web development, design, and deployment.
 
- Folder Structure
-project-name/
-├─ index.html
-├─ about.html
-├─ contact.html
-├─ assets/
-│  ├─ css/
-│  │  └─ styles.css
-│  ├─ img/
-│  └─ js/
-│     └─ main.js
-└─ README.md
-
  Features
 
 Responsive Navbar with navigation links
@@ -48,7 +35,6 @@ Deployment
 
 Hosted on GitHub Pages / Netlify
 
-Live Demo: [Add your deployed link here]
 
 Reflection
 What I learned:
